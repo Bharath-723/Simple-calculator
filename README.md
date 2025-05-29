@@ -2,7 +2,7 @@
 
 This is a basic web-based calculator built using **HTML**, **CSS**, and **JavaScript**. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
-screenshot.png
+![Calculator Screenshot](screenshot.png)
 
 ## 💡 Features
 
@@ -22,10 +22,10 @@ To run the calculator locally:
 2. Open the index.html file in your browser:
    ```bash
    open index.html
-   Or just double-click the file in your file explorer.
+  Or just double-click the file in your file explorer.
+
 📁 Project Structure
 ```bash
 ├── index.html      
 ├── style.css      
-├── screenshot.png  
-└── README.md       
+├── screenshot.png    
